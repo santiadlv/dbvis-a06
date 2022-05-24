@@ -1,0 +1,5 @@
+Regarding the following tasks, choose a barchart implementation and explain why it is more suitable compared to the other one.
+1.	Reading absolute revenue values
+2.	Comparing department revenue values
+
+In terms of scalability (having more stores and more departments), which other visualization might be a better choice?
